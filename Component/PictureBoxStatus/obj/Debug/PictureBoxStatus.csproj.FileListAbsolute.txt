@@ -1,0 +1,20 @@
+D:\Rotate\TestRotateBitmap\PictureBoxStatus\bin\Debug\PictureBoxStatus.dll
+D:\Rotate\TestRotateBitmap\PictureBoxStatus\bin\Debug\PictureBoxStatus.pdb
+D:\Rotate\TestRotateBitmap\PictureBoxStatus\obj\Debug\PictureBoxStatus.PicBoxStatus.resources
+D:\Rotate\TestRotateBitmap\PictureBoxStatus\obj\Debug\PictureBoxStatus.Properties.Resources.resources
+D:\Rotate\TestRotateBitmap\PictureBoxStatus\obj\Debug\PictureBoxStatus.csproj.GenerateResource.Cache
+D:\Rotate\TestRotateBitmap\PictureBoxStatus\obj\Debug\PictureBoxStatus.dll
+D:\Rotate\TestRotateBitmap\PictureBoxStatus\obj\Debug\PictureBoxStatus.pdb
+D:\Programming\My App\FileExtensionUserControl\PictureBoxStatus\bin\Debug\PictureBoxStatus.dll
+D:\Programming\My App\FileExtensionUserControl\PictureBoxStatus\bin\Debug\PictureBoxStatus.pdb
+D:\Programming\My App\FileExtensionUserControl\PictureBoxStatus\obj\Debug\PictureBoxStatus.Properties.Resources.resources
+D:\Programming\My App\FileExtensionUserControl\PictureBoxStatus\obj\Debug\PictureBoxStatus.csproj.GenerateResource.Cache
+D:\Programming\My App\FileExtensionUserControl\PictureBoxStatus\obj\Debug\PictureBoxStatus.dll
+D:\Programming\My App\FileExtensionUserControl\PictureBoxStatus\obj\Debug\PictureBoxStatus.pdb
+D:\Black ANT\Component\PictureBoxStatus\bin\Debug\PictureBoxStatus.dll
+D:\Black ANT\Component\PictureBoxStatus\bin\Debug\PictureBoxStatus.pdb
+D:\Black ANT\Component\PictureBoxStatus\obj\Debug\PictureBoxStatus.Properties.Resources.resources
+D:\Black ANT\Component\PictureBoxStatus\obj\Debug\PictureBoxStatus.csproj.GenerateResource.Cache
+D:\Black ANT\Component\PictureBoxStatus\obj\Debug\PictureBoxStatus.dll
+D:\Black ANT\Component\PictureBoxStatus\obj\Debug\PictureBoxStatus.pdb
+D:\Black ANT\Component\PictureBoxStatus\obj\Debug\PictureBoxStatus.csprojResolveAssemblyReference.cache

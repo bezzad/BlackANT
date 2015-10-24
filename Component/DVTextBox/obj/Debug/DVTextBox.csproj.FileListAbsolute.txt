@@ -1,0 +1,13 @@
+D:\Programming\FileExtensionUserControl\DVTextBox\bin\Debug\DVTextBox.dll
+D:\Programming\FileExtensionUserControl\DVTextBox\bin\Debug\DVTextBox.pdb
+D:\Programming\FileExtensionUserControl\DVTextBox\obj\Debug\DVTextBox.dll
+D:\Programming\FileExtensionUserControl\DVTextBox\obj\Debug\DVTextBox.pdb
+D:\Programming\My App\FileExtensionUserControl\DVTextBox\bin\Debug\DVTextBox.dll
+D:\Programming\My App\FileExtensionUserControl\DVTextBox\bin\Debug\DVTextBox.pdb
+D:\Programming\My App\FileExtensionUserControl\DVTextBox\obj\Debug\DVTextBox.dll
+D:\Programming\My App\FileExtensionUserControl\DVTextBox\obj\Debug\DVTextBox.pdb
+D:\Black ANT\Component\DVTextBox\bin\Debug\DVTextBox.dll
+D:\Black ANT\Component\DVTextBox\bin\Debug\DVTextBox.pdb
+D:\Black ANT\Component\DVTextBox\obj\Debug\DVTextBox.dll
+D:\Black ANT\Component\DVTextBox\obj\Debug\DVTextBox.pdb
+D:\Black ANT\Component\DVTextBox\obj\Debug\DVTextBox.csprojResolveAssemblyReference.cache

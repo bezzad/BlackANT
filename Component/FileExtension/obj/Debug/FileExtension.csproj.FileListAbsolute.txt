@@ -1,0 +1,10 @@
+D:\Programming\My App\FileExtensionUserControl\FileExtension\bin\Debug\FileExtension.dll
+D:\Programming\My App\FileExtensionUserControl\FileExtension\bin\Debug\FileExtension.pdb
+D:\Programming\My App\FileExtensionUserControl\FileExtension\obj\Debug\FileExtension.dll
+D:\Programming\My App\FileExtensionUserControl\FileExtension\obj\Debug\FileExtension.pdb
+D:\Programming\My App\FileExtensionUserControl\FileExtension\obj\Debug\FileExtension.csprojResolveAssemblyReference.cache
+D:\Black ANT\Component\FileExtension\bin\Debug\FileExtension.dll
+D:\Black ANT\Component\FileExtension\bin\Debug\FileExtension.pdb
+D:\Black ANT\Component\FileExtension\obj\Debug\FileExtension.csprojResolveAssemblyReference.cache
+D:\Black ANT\Component\FileExtension\obj\Debug\FileExtension.dll
+D:\Black ANT\Component\FileExtension\obj\Debug\FileExtension.pdb

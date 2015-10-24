@@ -1,0 +1,26 @@
+D:\Black ANT\Black ANT\obj\Debug\Black_ANT.Properties.Resources.resources
+D:\Black ANT\Black ANT\obj\Debug\Black ANT.csproj.GenerateResource.Cache
+D:\Black ANT\Black ANT\obj\Debug\Black ANT.exe
+D:\Black ANT\Black ANT\obj\Debug\Black ANT.pdb
+D:\Black ANT\Black ANT\obj\Debug\Security.PasswordForm.resources
+D:\Black ANT\Black ANT\Black ANT.exe
+D:\Black ANT\Black ANT\Black ANT.pdb
+D:\Black ANT\Black ANT\bin\Debug\Black ANT.exe
+D:\Black ANT\Black ANT\bin\Debug\Black ANT.pdb
+D:\Black ANT\Black ANT\obj\Debug\Security.ChangePassword.resources
+D:\Black ANT\Black ANT\obj\Debug\Security.PasswordStrengthControl.resources
+D:\Black ANT\Black ANT\obj\Debug\Black_ANT.GUI.resources
+D:\Black ANT\Black ANT\bin\Debug\Black ANT.exe.config
+D:\Black ANT\Black ANT\obj\Debug\Black ANT.csprojResolveAssemblyReference.cache
+D:\Programming\Black ANT\Black ANT\bin\Debug\Black ANT.exe.config
+D:\Programming\Black ANT\Black ANT\obj\Debug\Black ANT.exe
+D:\Programming\Black ANT\Black ANT\obj\Debug\Black ANT.pdb
+D:\Programming\Black ANT\Black ANT\bin\Debug\Black ANT.exe
+D:\Programming\Black ANT\Black ANT\bin\Debug\Black ANT.pdb
+D:\Programming\Black ANT\Black ANT\obj\Debug\Black ANT.csprojResolveAssemblyReference.cache
+D:\Programming\Black ANT\Black ANT\obj\Debug\Black_ANT.GUI.resources
+D:\Programming\Black ANT\Black ANT\obj\Debug\Black_ANT.Properties.Resources.resources
+D:\Programming\Black ANT\Black ANT\obj\Debug\Security.ChangePassword.resources
+D:\Programming\Black ANT\Black ANT\obj\Debug\Security.PasswordForm.resources
+D:\Programming\Black ANT\Black ANT\obj\Debug\Security.PasswordStrengthControl.resources
+D:\Programming\Black ANT\Black ANT\obj\Debug\Black ANT.csproj.GenerateResource.Cache

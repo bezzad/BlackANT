@@ -1,0 +1,118 @@
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 Kernel  ===>  Kernel state is running 
+======================================================================
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 DeclaredLocEXE  ===>  Request to declared executing location 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 AppDataManager.SaveData  ===>  Data Saved Successfully 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 HookToMyPassword  ===>  Keyboard Listener Started 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 Transaction.SecureDataReaderAsync  ===>  D:\Programming\Black ANT\Black ANT\bin\Debug\DirectoriesInformation.DAT Loaded 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:56 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:57 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:57 ق.ظ]: 	 DiskDriveChecker.OnDiskDriveInserted  ===>  The Mass Storage Drive Inserted 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:57 ق.ظ]: 	 DiskDriveChecker.OnDiskDriveInserted  ===>  Identify Mass Storage 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:57 ق.ظ]: 	 Transaction.SecureDataSaverAsync  ===>  D:\Programming\Black ANT\Black ANT\bin\Debug\DirectoriesInformation.DAT Stored 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:57 ق.ظ]: 	 DiskProbing  ===>  ---{Search Disks Started}--- 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:58 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:58 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:58 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:58 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:58 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:58 ق.ظ]: 	 SearchEngine.GetDirectorySize (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Behzad\AppData\Local\Microsoft\Windows\History ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Public\Music ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Public\Desktop ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Behzad\Documents ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Public\Documents ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Behzad\Desktop ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Public\Pictures ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Public\Videos ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Public\Pictures was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Public\Music was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Public\Videos was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Public\Desktop was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Behzad\AppData\Local\Microsoft\Windows\History was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Behzad\Downloads ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  E:\ ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Behzad\Music ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Behzad\Downloads was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Behzad\Music was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Behzad\Videos ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Behzad\Videos was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  D:\ ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  Searching  C:\Users\Behzad\Pictures ... 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Behzad\Pictures was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Behzad\Documents was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  E:\ was completed! 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 SearchEngine.SearchDirectory (#EXP#)  ===>  The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters. 
+-----------------------------------------------------------
+دوشنبه, 21 ژوئيه 2014 [10:09:59 ق.ظ]: 	 DiskProbing  ===>  The Search  C:\Users\Behzad\Desktop was completed! 
+-----------------------------------------------------------

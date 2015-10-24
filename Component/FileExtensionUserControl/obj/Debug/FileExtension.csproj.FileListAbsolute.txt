@@ -1,0 +1,11 @@
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\bin\Debug\FileExtension.dll
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\bin\Debug\FileExtension.pdb
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\bin\Debug\DVTextBox.dll
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\bin\Debug\PictureBoxStatus.dll
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\bin\Debug\DVTextBox.pdb
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\bin\Debug\PictureBoxStatus.pdb
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\obj\Debug\FileExtension.csprojResolveAssemblyReference.cache
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\obj\Debug\FileExtension.dll
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\obj\Debug\FileExtension.pdb
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\obj\Debug\FileExtension.FileExtensionUserControl.resources
+D:\Programming\My App\FileExtensionUserControl\FileExtensionUserControl\FileExtensionUserControl\obj\Debug\FileExtension.csproj.GenerateResource.Cache
